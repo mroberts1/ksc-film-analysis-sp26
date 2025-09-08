@@ -128,19 +128,19 @@ References to relevant sources encouraged and will get extra credit.\
 
 ## Films
 
-- _Cat People_ (Jacques Tourneur, 1942) [@tourneur_1942_cat]
-- _Ascenseur pour l'échafaud_ (_Elevator to the Gallows_, Louis Malle, 1958) [@malle_1958_elevator]
-- _The Servant_ (Joseph Losey, 1963) [@losey_1963_servant]
-- _Red Desert_ (_Il deserto rosso_, Michelangelo Antonioni, 1964) [@antonioni_1964_red]
-- _The Face of Another_ (_Tanin no kao_, Hiroshi Teshigahara, 1966) [@teshigahara_1966_face]
-- _Portrait of Jason_ (Shirley Clarke, 1967) [@clarke_1967_portrait]
-- *Black Panthers* (Agnès Varda, 1968) [@varda_1968_black]
-- *Gimme Shelter* (Albert Maysles, David Maysles, Charlotte Zwerin, 1970) [@maysles_1970_gimme]
-- _Killer of Sheep_ (Charles Burnett, 1978) [@burnett_1978_killer]
-- _The American Soldier_ (_Der amerikanische Soldat_, Rainer Werner Fassbinder, 1970) [@fassbinder_1970_american]
-- _Barry Lyndon_ (Stanley Kubrick, 1975) [@kubrick_1975_barry]
-- _Stalker_ (Andrei Tarkovsky, 1979) [@tarkovsky_1979_stalker]
-- _Three Colours: Blue_ (_Trois couleurs: Bleu_, Krzysztof Kie&#347;lowski, 1993) [@kieslowski_1993_blue]
+- *Cat People* (Jacques Tourneur, 1942) [@tourneur*1942*cat]
+- *Ascenseur pour l'échafaud* (*Elevator to the Gallows*, Louis Malle, 1958) [@malle*1958*elevator]
+- *The Servant* (Joseph Losey, 1963) [@losey*1963*servant]
+- *Red Desert* (*Il deserto rosso*, Michelangelo Antonioni, 1964) [@antonioni*1964*red]
+- *The Face of Another* (*Tanin no kao*, Hiroshi Teshigahara, 1966) [@teshigahara*1966*face]
+- *Portrait of Jason* (Shirley Clarke, 1967) [@clarke*1967*portrait]
+- *Black Panthers* (Agnès Varda, 1968) [@varda*1968*black]
+- *Gimme Shelter* (Albert Maysles, David Maysles, Charlotte Zwerin, 1970) [@maysles*1970*gimme]
+- *Killer of Sheep* (Charles Burnett, 1978) [@burnett*1978*killer]
+- *The American Soldier* (*Der amerikanische Soldat*, Rainer Werner Fassbinder, 1970) [@fassbinder*1970*american]
+- *Barry Lyndon* (Stanley Kubrick, 1975) [@kubrick*1975*barry]
+- *Stalker* (Andrei Tarkovsky, 1979) [@tarkovsky*1979*stalker]
+- *Three Colours: Blue* (*Trois couleurs: Bleu*, Krzysztof Kie&#347;lowski, 1993) [@kieslowski*1993*blue]
 
 ---
 
@@ -150,7 +150,7 @@ Week 1: Mon 25 Aug
 
 Introduction: This Is Not A Survey Course
 
-Screening: _Cat People_
+Screening: *Cat People*
 
 ---
 
@@ -168,7 +168,7 @@ Reading:
 
 - Daisuke Miyao, "[Cats Love Dark Places: Lighting in *Cat People*](pdf/daisuke-miyao-cinema-cat-people.pdf)"
 
-Screening: _Elevator to the Gallows_
+Screening: *Un Témoin dans la ville* (Édouard Molinaro, 1959)  
 
 ---
 
@@ -178,10 +178,10 @@ Week 4: Mon 15 Sept
 
 Reading:
 
-- Ginette Vincendeau, "French Film Noir"
-- Ginette Vincendeau, "Jeanne Moreau and the Actresses of the New Wave"
+- Martin Roberts, "[Dangerous Liaisons: Film Noir, Jazz, and the French New Wave](https://mroberts1.github.io/nocturnal-cinema/)"  
+- Ginette Vincendeau, "[French Film Noir](pdf/french-film-noir.pdf)"
 
-Screening: _The Servant_ 
+Screening: *The Servant* 
 
 ---
 
@@ -193,7 +193,7 @@ Reading:
 
 - Selected chapters from David Caute, *Joseph Losey: A Revenge on Life*
 
-Screening: _Red Desert_ 
+Screening: *Red Desert* 
 
 See also: *Red Hollywood*
 
@@ -208,7 +208,7 @@ Reading:
 - David Bordwell, "The Art Cinema as a Mode of Film Practice"
 - Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21)
 
-Screening: _The Face of Another_ 
+Screening: *The Face of Another* 
 
 ---
 
@@ -223,7 +223,7 @@ Reading:
 
 See also: 
 
-Screening: _Portrait of Jason_ 
+Screening: *Portrait of Jason* 
 
 ---
 
@@ -239,7 +239,7 @@ Week 9: Mon 20 Oct
 
 **Resistance**
 
-Delphine Letort, "[Agnès Varda: Filming the Black Panthers's Struggle](https://canvas.emerson.edu/courses/2040561/files/168958619?wrap=1 "Agnes_Varda_filming_the_Black_Pantherss_Struggle.pdf")" (_L'Ordinaire des Amériques_, 217 (2014))
+Delphine Letort, "[Agnès Varda: Filming the Black Panthers's Struggle](https://canvas.emerson.edu/courses/2040561/files/168958619?wrap=1 "Agnes*Varda*filming*the*Black*Pantherss*Struggle.pdf")" (*L'Ordinaire des Amériques*, 217 (2014))
 
 Screening: *Gimme Shelter*
 
@@ -262,7 +262,7 @@ Reading:
 - [The Story of L.A. Rebellion](https://www.cinema.ucla.edu/la-rebellion/story-la-rebellion) (UCLA Library)
 - *L.A. Rebellion: Creating A New Black Cinema* (exhibition catalog, 2011)
 
-Screening: _The American Soldier_
+Screening: *The American Soldier*
 
 ---
 
@@ -274,7 +274,7 @@ Reading:
 
 - Judith Mayne, "Fassbinder and Spectatorship"
 
-Screening: _Barry Lyndon_ 
+Screening: *Barry Lyndon* 
 
 ---
 
@@ -288,7 +288,7 @@ Reading:
 - "[Kubrick's Candle Tricks in *Barry Lyndon*](https://www.criterion.com/current/posts/5059-kubrick-s-candle-tricks-in-barry-lyndon)" (*Criterion Collection*, 4 January 2018)
 - [Barry Lyndon Appreciation Society](https://www.facebook.com/groups/4160171565/) (Facebook)
 
-Screening: _Stalker_ 
+Screening: *Stalker* 
 
 ---
 
@@ -299,11 +299,11 @@ Week 14: Mon 24 Nov
 Reading:
 
 - Paul Schrader, "[Rethinking Transcendental Style](https://mroberts.emerson.build/courses/vm402-01/fa24/pdf/rethinking-transcendental-style.pdf)"
-- Stefan Smith, "[The Edge of Perception: Sound in Tarkovsky's _Stalker_](https://canvas.emerson.edu/courses/2040561/files/168961381?wrap=1 "SMITH-Stephen.pdf")" (_The School of Sound_ website)
+- Stefan Smith, "[The Edge of Perception: Sound in Tarkovsky's *Stalker*](https://canvas.emerson.edu/courses/2040561/files/168961381?wrap=1 "SMITH-Stephen.pdf")" (*The School of Sound* website)
 
 **World Cinema**
 
-Screening:  _Three Colours: Blue_
+Screening:  *Three Colours: Blue*
 
 ---
 
@@ -326,7 +326,7 @@ Tues 9-Fri 12: Exam period
 
 Andersen, Thom, and Noël Burch, dirs. 1996. *Red Hollywood*.  
 Andersen, Thom, dir. 2003. *Los Angeles Plays Itself*.  
-Maysles, Albert, David Maysles, and Charlotte Zwerin, dirs. 1970. _Gimme Shelter_.  
+Maysles, Albert, David Maysles, and Charlotte Zwerin, dirs. 1970. *Gimme Shelter*.  
 Zwerin, Charlotte, dir. 1994. *Music for the Movies: Toru Takemitsu*. Les Films d'Ici.
 
 ***
