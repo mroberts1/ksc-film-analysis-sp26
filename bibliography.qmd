@@ -1,0 +1,63 @@
+---
+title: "Bibliography & Filmography"
+nocite: |
+  @*
+---
+
+This page contains the complete bibliography and filmography for the course, including all films screened and scholarly sources referenced in weekly readings.
+
+::: {#refs-print}
+## Bibliography
+
+```{=html}
+<div id="bibliography-content" style="display: none;"></div>
+```
+:::
+
+::: {#refs-films}
+## Filmography
+
+```{=html}
+<div id="filmography-content" style="display: none;"></div>
+```
+:::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Get the main references div
+    const mainRefs = document.getElementById('refs');
+    if (!mainRefs) return;
+    
+    const allEntries = mainRefs.querySelectorAll('.csl-entry');
+    const printRefs = document.getElementById('refs-print');
+    const filmRefs = document.getElementById('refs-films');
+    
+    // Film keys - entries that should go in filmography
+    const filmKeys = [
+        'tourneur_1942_cat', 'malle_1958_elevator', 'losey_1963_servant',
+        'antonioni_1964_red', 'teshigahara_1966_face', 'clarke_1967_portrait',
+        'varda_1968_black', 'maysles_1970_gimme', 'fassbinder_1970_american',
+        'kubrick_1975_barry', 'burnett_1978_killer', 'tarkovsky_1979_stalker',
+        'kieslowski_1993_blue', 'zwerin_1994_music', 'andersen_1996_red',
+        'andersen_2003_los'
+    ];
+    
+    allEntries.forEach(function(entry) {
+        const entryId = entry.id;
+        const isFilm = filmKeys.some(key => entryId.includes(key));
+        
+        if (isFilm) {
+            filmRefs.appendChild(entry.cloneNode(true));
+        } else {
+            printRefs.appendChild(entry.cloneNode(true));
+        }
+    });
+    
+    // Hide the main refs div
+    if (mainRefs) {
+        mainRefs.style.display = 'none';
+    }
+});
+</script>
+```

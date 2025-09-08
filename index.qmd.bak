@@ -1,7 +1,5 @@
 ---
 title: 'Introduction to Film History'
-lang: en
-encoding: UTF-8
 ---
 
 ```{r}
@@ -60,7 +58,7 @@ At least three films by one of the following filmmakers:
 - Michelangelo Antonioni
 - Shirley Clarke
 - Rainer Werner Fassbinder
-- Krzysztof Kie&#347;lowski
+- Krzysztof Kieślowski
 - Stanley Kubrick
 - Joseph Losey
 - Louis Malle
@@ -140,7 +138,7 @@ References to relevant sources encouraged and will get extra credit.\
 - _The American Soldier_ (_Der amerikanische Soldat_, Rainer Werner Fassbinder, 1970) [@fassbinder_1970_american]
 - _Barry Lyndon_ (Stanley Kubrick, 1975) [@kubrick_1975_barry]
 - _Stalker_ (Andrei Tarkovsky, 1979) [@tarkovsky_1979_stalker]
-- _Three Colours: Blue_ (_Trois couleurs: Bleu_, Krzysztof Kie&#347;lowski, 1993) [@kieslowski_1993_blue]
+- _Three Colours: Blue_ (_Trois couleurs: Bleu_, Krzysztof Kieślowski, 1993) [@kieslowski_1993_blue]
 
 ---
 
@@ -165,8 +163,7 @@ Week 3: Mon 8 Sept
 **Topic: Cat People**
 
 Reading:
-
-- Daisuke Miyao, "[Cats Love Dark Places: Lighting in *Cat People*](pdf/daisuke-miyao-cinema-cat-people.pdf)"
+- Daisuke Miyao, "Cats Love Dark Places: Lighting in *Cat People*" [@miyao_cats]
 
 Screening: _Elevator to the Gallows_
 
@@ -177,9 +174,8 @@ Week 4: Mon 15 Sept
 **Nocturnal Cinema**
 
 Reading:
-
-- Ginette Vincendeau, "French Film Noir"
-- Ginette Vincendeau, "Jeanne Moreau and the Actresses of the New Wave"
+- Ginette Vincendeau, "French Film Noir" [@vincendeau_noir]
+- Ginette Vincendeau, "Jeanne Moreau and the Actresses of the New Wave" [@vincendeau_moreau]
 
 Screening: _The Servant_ 
 
@@ -190,12 +186,11 @@ Week 5: Mon 22 Sept
 **Red Hollywood**
 
 Reading: 
-
-- Selected chapters from David Caute, *Joseph Losey: A Revenge on Life*
+- Selected chapters from David Caute, *Joseph Losey: A Revenge on Life* [@caute_1994_losey]
 
 Screening: _Red Desert_ 
 
-See also: *Red Hollywood*
+See also: *Red Hollywood* [@andersen_1996_red]
 
 ---
 
@@ -205,8 +200,8 @@ Week 6: Mon 29 Sept
 
 Reading:
 
-- David Bordwell, "The Art Cinema as a Mode of Film Practice"
-- Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21)
+- David Bordwell, "The Art Cinema as a Mode of Film Practice" [@bordwell_1979_art]
+- Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21) [@quaranta_2020_boredom]
 
 Screening: _The Face of Another_ 
 
@@ -218,8 +213,8 @@ Week 7: Mon 6 Oct
 
 Reading:
 
-- Movements in Film on the [Japanese New Wave](https://www.movementsinfilm.com/japanese-new-wave)
-- Cinemawaves on the [Japanese New Wave](https://cinemawavesblog.com/movements/japanese-new-wave/)
+- Movements in Film on the [Japanese New Wave](https://www.movementsinfilm.com/japanese-new-wave) [@movements_japanese]
+- Cinemawaves on the [Japanese New Wave](https://cinemawavesblog.com/movements/japanese-new-wave/) [@cinemawaves_japanese]
 
 See also: 
 
@@ -239,7 +234,7 @@ Week 9: Mon 20 Oct
 
 **Resistance**
 
-Delphine Letort, "[Agnès Varda: Filming the Black Panthers's Struggle](https://canvas.emerson.edu/courses/2040561/files/168958619?wrap=1 "Agnes_Varda_filming_the_Black_Pantherss_Struggle.pdf")" (_L'Ordinaire des Amériques_, 217 (2014))
+Delphine Letort, "[Agnès Varda: Filming the Black Panthers's Struggle](https://canvas.emerson.edu/courses/2040561/files/168958619?wrap=1 "Agnes_Varda_filming_the_Black_Pantherss_Struggle.pdf")" (_L'Ordinaire des Amériques_, 217 (2014)) [@letort_2014_varda]
 
 Screening: *Gimme Shelter*
 
@@ -248,6 +243,8 @@ Screening: *Gimme Shelter*
 Week 10: Mon 27 Oct
 
 **Music Documentary**
+
+
 
 Screening: *Killer of Sheep*
 
@@ -259,8 +256,8 @@ Week 11: Mon 3 Nov
 
 Reading:
 
-- [The Story of L.A. Rebellion](https://www.cinema.ucla.edu/la-rebellion/story-la-rebellion) (UCLA Library)
-- *L.A. Rebellion: Creating A New Black Cinema* (exhibition catalog, 2011)
+- [The Story of L.A. Rebellion](https://www.cinema.ucla.edu/la-rebellion/story-la-rebellion) (UCLA Library) [@ucla_rebellion]
+- *L.A. Rebellion: Creating A New Black Cinema* (exhibition catalog, 2011) [@rebellion_catalog_2011]
 
 Screening: _The American Soldier_
 
@@ -272,7 +269,7 @@ Week 12: Mon 10 Nov
 
 Reading:
 
-- Judith Mayne, "Fassbinder and Spectatorship"
+- Judith Mayne, "Fassbinder and Spectatorship" [@mayne_fassbinder]
 
 Screening: _Barry Lyndon_ 
 
@@ -284,9 +281,9 @@ Week 13: Mon 17 Nov
 
 Reading:
 
-- Geoffrey O'Brien, "[Barry Lyndon: Time Regained](https://www.criterion.com/current/posts/5047-barry-lyndon-time-regained)" (*Criterion Collection*, 17 October 2017)
-- "[Kubrick's Candle Tricks in *Barry Lyndon*](https://www.criterion.com/current/posts/5059-kubrick-s-candle-tricks-in-barry-lyndon)" (*Criterion Collection*, 4 January 2018)
-- [Barry Lyndon Appreciation Society](https://www.facebook.com/groups/4160171565/) (Facebook)
+- Geoffrey O'Brien, "[Barry Lyndon: Time Regained](https://www.criterion.com/current/posts/5047-barry-lyndon-time-regained)" (*Criterion Collection*, 17 October 2017) [@obrien_2017_barry]
+- "[Kubrick's Candle Tricks in *Barry Lyndon*](https://www.criterion.com/current/posts/5059-kubrick-s-candle-tricks-in-barry-lyndon)" (*Criterion Collection*, 4 January 2018) [@criterion_2018_kubrick]
+- [Barry Lyndon Appreciation Society](https://www.facebook.com/groups/4160171565/) (Facebook) [@barry_lyndon_society]
 
 Screening: _Stalker_ 
 
@@ -298,8 +295,8 @@ Week 14: Mon 24 Nov
 
 Reading:
 
-- Paul Schrader, "[Rethinking Transcendental Style](https://mroberts.emerson.build/courses/vm402-01/fa24/pdf/rethinking-transcendental-style.pdf)"
-- Stefan Smith, "[The Edge of Perception: Sound in Tarkovsky's _Stalker_](https://canvas.emerson.edu/courses/2040561/files/168961381?wrap=1 "SMITH-Stephen.pdf")" (_The School of Sound_ website)
+- Paul Schrader, "[Rethinking Transcendental Style](https://mroberts.emerson.build/courses/vm402-01/fa24/pdf/rethinking-transcendental-style.pdf)" [@schrader_transcendental]
+- Stefan Smith, "[The Edge of Perception: Sound in Tarkovsky's _Stalker_](https://canvas.emerson.edu/courses/2040561/files/168961381?wrap=1 "SMITH-Stephen.pdf")" (_The School of Sound_ website) [@smith_tarkovsky]
 
 **World Cinema**
 
@@ -324,10 +321,10 @@ Tues 9-Fri 12: Exam period
 
 ## Filmography
 
-Andersen, Thom, and Noël Burch, dirs. 1996. *Red Hollywood*.  
-Andersen, Thom, dir. 2003. *Los Angeles Plays Itself*.  
-Maysles, Albert, David Maysles, and Charlotte Zwerin, dirs. 1970. _Gimme Shelter_.  
-Zwerin, Charlotte, dir. 1994. *Music for the Movies: Toru Takemitsu*. Les Films d'Ici.
+Andersen, Thom, and Noël Burch, dirs. 1996. *Red Hollywood* [@andersen_1996_red].  
+Andersen, Thom, dir. 2003. *Los Angeles Plays Itself* [@andersen_2003_los].  
+Maysles, Albert, David Maysles, and Charlotte Zwerin, dirs. 1970. _Gimme Shelter_ [@maysles_1970_gimme].  
+Zwerin, Charlotte, dir. 1994. *Music for the Movies: Toru Takemitsu* [@zwerin_1994_music]. Les Films d'Ici.
 
 ***
 

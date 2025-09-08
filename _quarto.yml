@@ -2,6 +2,12 @@ project:
   type: website
   resources:
   - "pdf/*.pdf"
+  - "fonts/**"
+
+bibliography: references.bib
+csl: chicago-author-date.csl
+lang: en
+encoding: UTF-8
   
 website:
   title: "    "
@@ -50,6 +56,7 @@ format:
     smooth-scroll: true
     linkcolor: "#62259d"
     link-external-newwindow: true
+    link-citations: true
   # PrettyPDF-pdf: default
 fig-responsive: true
 image-alt: " "
