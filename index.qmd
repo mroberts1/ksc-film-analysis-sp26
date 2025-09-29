@@ -12,7 +12,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-![](img/varda-resnais.jpg){.lightbox}
+![](img/the-servant.jpeg){.lightbox}
 
 ::: {.column-margin}
 
@@ -27,7 +27,7 @@ Office hours: Monday 16:00-17:00\
 Office location: Media Arts 124\
 [Canvas](https://keene.instructure.com/courses/2474966)\
 <br>
-[{{< fa regular envelope >}}](mailto:mdy45@usnh.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/) \| 
+[{{< fa regular envelope >}}](mailto:mdy45@usnh.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/ksc-film-history-fa25)\| 
 [{{< fa brands bluesky >}}](https://bsky.app/profile/dokoissho.bsky.social)
 
 :::
