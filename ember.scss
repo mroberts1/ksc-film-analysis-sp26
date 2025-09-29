@@ -3,7 +3,7 @@
 // use litera as the base
  //$theme: "litera" !default;
 
-// Import Adobe Fonts (Proxima Nova)
+/* Import Adobe Fonts (Proxima Nova) */
 @import url("https://use.typekit.net/fme8kty.css");
 @import url("https://use.typekit.net/ejl5bmc.css");
 @import url("https://use.typekit.net/ejl5bmc.css");
@@ -38,7 +38,7 @@ $font-family-headers: "TStarProBold";
 
 /*-- scss:rules --*/
 
-// litera is serif by default: revert to san-serif
+/* litera is serif by default: revert to san-serif */
 p, li {
   font-family: $font-family-sans-serif;
   font-weight: 400 !important;
@@ -66,24 +66,24 @@ h2, h3, h4, h5, h6 {
 a:link {
   color: #000;
   text-decoration: none;
-  //text-decoration-color: #235440;
-  //text-decoration-thickness: 1px;
-  //text-underline-offset: 3px;
+  text-decoration-color: #000;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 a:visited {
     color: #000;
     text-decoration: none;
-    //text-decoration-color: #235440;
-    //text-decoration-thickness: 1px;
-    //text-underline-offset: 3px;
+    text-decoration-color: #235440;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
 }
 a:hover {
   color: white;
-  //text-decoration: underline;
+  /* text-decoration: underline; */
   background-color: #B22222;
-  //text-decoration-color: #235440;
-  //text-decoration-thickness: 2px;
-  //text-underline-offset: 3px;
+  /* text-decoration-color: #235440; */
+  /* text-decoration-thickness: 2px; */
+  /* text-underline-offset: 3px; */
 }
 a:active {
   color: #000;

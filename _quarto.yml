@@ -42,9 +42,8 @@ format:
     toc-location: left
     toc-title: '   '
     theme:
-      light: ember.scss
-      dark: [ember.scss, slate]
-    css: custom.scss
+      light: [ember.scss, custom.scss]
+      dark: [ember.scss, custom.scss, slate]
     self-contained: false
     grid:
         sidebar-width: 300px
