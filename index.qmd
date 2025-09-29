@@ -4,14 +4,6 @@ lang: en
 encoding: UTF-8
 ---
 
-```{r}
-#| label: load-packages
-#| include: false
-
-library(tidyverse)
-library(palmerpenguins)
-```
-
 ![](img/the-servant.jpeg){.lightbox}
 
 ::: {.column-margin}
