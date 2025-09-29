@@ -131,7 +131,6 @@ References to relevant sources encouraged and will get extra credit.\
 - *Cat People* (Jacques Tourneur, 1942) [@tourneur*1942*cat]
 - *Ascenseur pour l'échafaud* (*Elevator to the Gallows*, Louis Malle, 1958) [@malle*1958*elevator]
 - *The Servant* (Joseph Losey, 1963) [@losey*1963*servant]
-- *Red Desert* (*Il deserto rosso*, Michelangelo Antonioni, 1964) [@antonioni*1964*red]
 - *The Face of Another* (*Tanin no kao*, Hiroshi Teshigahara, 1966) [@teshigahara*1966*face]
 - *Portrait of Jason* (Shirley Clarke, 1967) [@clarke*1967*portrait]
 - *Black Panthers* (Agnès Varda, 1968) [@varda*1968*black]
@@ -193,9 +192,7 @@ Reading:
 
 - Selected chapters from David Caute, *Joseph Losey: A Revenge on Life*
 
-Screening: *Red Desert* 
-
-See also: *Red Hollywood*
+Screening: *Red Hollywood* (excerpts)
 
 ---
 
@@ -205,7 +202,7 @@ Week 6: Mon 29 Sept
 
 Reading:
 
-- David Bordwell, "The Art Cinema as a Mode of Film Practice"
+- David Bordwell, "[The Art Cinema as a Mode of Film Practice](pdf/bordwell-art-cinema.pdf)"
 - Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21)
 
 Screening: *The Face of Another* 
