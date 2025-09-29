@@ -123,7 +123,7 @@ References to relevant sources encouraged and will get extra credit.\
 - *Cat People* (Jacques Tourneur, 1942) [@tourneur*1942*cat]
 - *Ascenseur pour l'échafaud* (*Elevator to the Gallows*, Louis Malle, 1958) [@malle*1958*elevator]
 - *The Servant* (Joseph Losey, 1963) [@losey*1963*servant]
-- *The Face of Another* (*Tanin no kao*, Hiroshi Teshigahara, 1966) [@teshigahara*1966*face]
+- *High and Low* (Akira Kurosawa, 1963) [@kurosawa*1963*high]
 - *Portrait of Jason* (Shirley Clarke, 1967) [@clarke*1967*portrait]
 - *Black Panthers* (Agnès Varda, 1968) [@varda*1968*black]
 - *Gimme Shelter* (Albert Maysles, David Maysles, Charlotte Zwerin, 1970) [@maysles*1970*gimme]
@@ -197,7 +197,7 @@ Reading:
 - David Bordwell, "[The Art Cinema as a Mode of Film Practice](pdf/bordwell-art-cinema.pdf)"
 - Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21)
 
-Screening: *The Face of Another* 
+Screening: *High and Low* 
 
 ---
 
@@ -207,6 +207,7 @@ Week 7: Mon 6 Oct
 
 Reading:
 
+- Mitsuhiro Yoshimoto, "[23. High and Low](pdf/kurosawa-high-low.pdf)" (in *Kurosawa: Film Studies and Japanese Cinema*. Durham, NC: Duke University Press, 2000)
 - Movements in Film on the [Japanese New Wave](https://www.movementsinfilm.com/japanese-new-wave)
 - Cinemawaves on the [Japanese New Wave](https://cinemawavesblog.com/movements/japanese-new-wave/)
 
