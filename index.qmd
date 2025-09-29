@@ -54,11 +54,11 @@ At least three films by one of the following filmmakers:
 - Rainer Werner Fassbinder
 - Krzysztof Kie&#347;lowski
 - Stanley Kubrick
+- Akira Kurosawa
 - Joseph Losey
 - Louis Malle
 - Albert and David Maysles
 - Andrei Tarkovsky
-- Hiroshi Teshigahara
 - Jacques Tourneur
 - Agnès Varda
 - Charlotte Zwerin
@@ -120,18 +120,18 @@ References to relevant sources encouraged and will get extra credit.\
 
 ## Films
 
-- *Cat People* (Jacques Tourneur, 1942) [@tourneur*1942*cat]
-- *Ascenseur pour l'échafaud* (*Elevator to the Gallows*, Louis Malle, 1958) [@malle*1958*elevator]
-- *The Servant* (Joseph Losey, 1963) [@losey*1963*servant]
-- *High and Low* (Akira Kurosawa, 1963) [@kurosawa*1963*high]
-- *Portrait of Jason* (Shirley Clarke, 1967) [@clarke*1967*portrait]
-- *Black Panthers* (Agnès Varda, 1968) [@varda*1968*black]
-- *Gimme Shelter* (Albert Maysles, David Maysles, Charlotte Zwerin, 1970) [@maysles*1970*gimme]
-- *Killer of Sheep* (Charles Burnett, 1978) [@burnett*1978*killer]
-- *The American Soldier* (*Der amerikanische Soldat*, Rainer Werner Fassbinder, 1970) [@fassbinder*1970*american]
-- *Barry Lyndon* (Stanley Kubrick, 1975) [@kubrick*1975*barry]
-- *Stalker* (Andrei Tarkovsky, 1979) [@tarkovsky*1979*stalker]
-- *Three Colours: Blue* (*Trois couleurs: Bleu*, Krzysztof Kie&#347;lowski, 1993) [@kieslowski*1993*blue]
+- *Cat People* (Jacques Tourneur, 1942) 
+- *Ascenseur pour l'échafaud* (*Elevator to the Gallows*, Louis Malle, 1958) 
+- *The Servant* (Joseph Losey, 1963) 
+- *High and Low* (Akira Kurosawa, 1963) 
+- *Portrait of Jason* (Shirley Clarke, 1967) 
+- *Black Panthers* (Agnès Varda, 1968) 
+- *Gimme Shelter* (Albert Maysles, David Maysles, Charlotte Zwerin, 1970) 
+- *Killer of Sheep* (Charles Burnett, 1978) 
+- *The American Soldier* (*Der amerikanische Soldat*, Rainer Werner Fassbinder, 1970) 
+- *Barry Lyndon* (Stanley Kubrick, 1975) 
+- *Stalker* (Andrei Tarkovsky, 1979) 
+- *Three Colours: Blue* (*Trois couleurs: Bleu*, Krzysztof Kie&#347;lowski, 1993) 
 
 ---
 
