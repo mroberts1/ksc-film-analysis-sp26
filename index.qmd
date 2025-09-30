@@ -103,7 +103,7 @@ References to relevant sources encouraged and will get extra credit.\
 
 [Criterion](https://www.criterion.com/)  
 [Justwatch](https://justwatch.io/)  
-[Letterboxd](https://letterboxd.com/)
+[Letterboxd](https://letterboxd.com/)  
 [Metrograph](https://metrograph.com/)  
 [Mubi](https://mubi.com/)  
 [Movie Database](https://www.themoviedb.org/?language=en-US)  
@@ -208,6 +208,9 @@ Week 7: Mon 6 Oct
 Reading:
 
 - Mitsuhiro Yoshimoto, "[23. High and Low](pdf/kurosawa-high-low.pdf)" (in *Kurosawa: Film Studies and Japanese Cinema*. Durham, NC: Duke University Press, 2000)
+
+See also:
+
 - Movements in Film on the [Japanese New Wave](https://www.movementsinfilm.com/japanese-new-wave)
 - Cinemawaves on the [Japanese New Wave](https://cinemawavesblog.com/movements/japanese-new-wave/)
 

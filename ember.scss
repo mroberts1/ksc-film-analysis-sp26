@@ -65,15 +65,15 @@ h2, h3, h4, h5, h6 {
 
 a:link {
   color: #000;
-  text-decoration: none;
+  text-decoration: true;
   text-decoration-color: #000;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
 a:visited {
     color: #000;
-    text-decoration: none;
-    text-decoration-color: #235440;
+    text-decoration: true;
+    text-decoration-color: #000;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
 }
@@ -87,7 +87,10 @@ a:hover {
 }
 a:active {
   color: #000;
-  text-decoration: none;
+  text-decoration: true;
+  text-decoration-color: #000;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 // Table of Contents link styling
