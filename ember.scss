@@ -65,21 +65,21 @@ h2, h3, h4, h5, h6 {
 
 a:link {
   color: #000;
-  text-decoration: true;
+  text-decoration: underline;
   text-decoration-color: #000;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
 a:visited {
     color: #000;
-    text-decoration: true;
+    text-decoration: underline;
     text-decoration-color: #000;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
 }
 a:hover {
   color: white;
-  /* text-decoration: underline; */
+  text-decoration: none;
   background-color: #B22222;
   /* text-decoration-color: #235440; */
   /* text-decoration-thickness: 2px; */
@@ -87,7 +87,7 @@ a:hover {
 }
 a:active {
   color: #000;
-  text-decoration: true;
+  text-decoration: underline;
   text-decoration-color: #000;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
