@@ -4,7 +4,7 @@ lang: en
 encoding: UTF-8
 ---
 
-![](img/the-servant.jpeg){.lightbox}
+![](img/varda-resnais.jpg){.lightbox}
 
 ::: {.column-margin}
 
@@ -225,7 +225,11 @@ Week 8 Mon 13 Oct
 
 **Documentary**
 
+{{< video https://youtu.be/5sDCWh0fqlg width="300" >}}
+
 "[Eye Contact](https://www.errolmorris.com/content/eyecontact/interrotron.html)" (2004 interview with Errol Morris on the Interrotron)
+
+[American Gothic Films: An Incomplete List](https://theanadromist.wordpress.com/2012/11/07/american-gothic-films-a-list/)
 
 Screening: *Gates of Heaven*
 
