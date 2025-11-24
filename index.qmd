@@ -4,7 +4,7 @@ lang: en
 encoding: UTF-8
 ---
 
-![](img/varda-resnais.jpg){.lightbox}
+[![](img/espiritu-colmena.jpg){.lightbox}](https://www.criterion.com/films/367-the-spirit-of-the-beehive)
 
 ::: {.column-margin}
 
