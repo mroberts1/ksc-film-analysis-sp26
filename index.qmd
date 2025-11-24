@@ -52,13 +52,13 @@ Grading: Letter
 At least three films by one of the following filmmakers:
 
 - Michelangelo Antonioni
+- Charles Burnett
 - Victor Erice
 - Stanley Kubrick
 - Akira Kurosawa
 - Joseph Losey
 - Louis Malle
 - Errol Morris
-- Andrei Tarkovsky
 - Jacques Tourneur
 - Agnès Varda
 
@@ -127,8 +127,7 @@ References to relevant sources encouraged and will get extra credit.\
 - *Mifune: The Last Samurai* (Steven Okazaki, 2015)
 - *Gates of Heaven* (Errol Morris, 1978)
 - *Black Panthers* (Agnès Varda, 1968) 
-- *Killer of Sheep* (Charles Burnett, 1978) 
-- *The American Soldier* (*Der amerikanische Soldat*, Rainer Werner Fassbinder, 1970) 
+- *To Sleep With Anger* (Charles Burnett, 1990) 
 - *Barry Lyndon* (Stanley Kubrick, 1975) 
 - *El Espíritu de la Colmena* (Victor Erice, 1973)
 
