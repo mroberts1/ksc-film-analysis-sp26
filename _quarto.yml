@@ -51,7 +51,7 @@ format:
         margin-width: 300px
         gutter-width: 1em
     linestretch: 1.5
-    fontsize: 1em
+    fontsize: 1.2em
     smooth-scroll: true
     linkcolor: "#62259d"
     link-external-newwindow: true
