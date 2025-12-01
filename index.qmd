@@ -222,7 +222,11 @@ Week 8 Mon 13 Oct
 
 **Documentary**
 
+::: {.column-margin}
+
 {{< video https://youtu.be/5sDCWh0fqlg width="300" >}}
+
+:::
 
 "[Eye Contact](https://www.errolmorris.com/content/eyecontact/interrotron.html)" (2004 interview with Errol Morris on the Interrotron)
 
@@ -308,6 +312,16 @@ Week 15 Mon 1 Dec
 
 - Paul Julian Smith, "[*The Spirit of the Beehive*: Spanish Lessons](https://www.criterion.com/current/posts/447-the-spirit-of-the-beehive-spanish-lessons)" (Criterion Channel, 18 September 2006)
 - Olivia Arigho Stiles, "[The Monster and the Other: Reading Gender in Victor Erice’s *The Spirit of the Beehive*](https://www.anothergaze.com/the-monster-and-the-other-reading-gender-in-victor-erice-the-spirit-of-the-beehive/)" (*Another Gaze*, 24 August 2016)
+
+Screening: *Blue* ()
+
+::: {.column-margin}
+
+{{< video https://youtu.be/xiIM-18353M >}}
+
+:::
+
+- Nick James, "[*Blue*: Bare Necessities](https://www.criterion.com/current/posts/2066-blue-bare-necessities)" (Criterion Channel, 15 November 2011)
 
 ***
 
