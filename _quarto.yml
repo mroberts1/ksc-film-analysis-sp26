@@ -19,6 +19,9 @@ website:
   navbar:
     background: "#B22222"
     search: false
+    left: 
+      - text: Spectral Cinema
+        file: spectral-cinema.qmd
     # right:
     #   - icon: envelope
     #     aria-label: envelope
@@ -37,7 +40,7 @@ website:
     #     href: https://twitter.com/mroberts_VMA
 format:
   html:
-    toc: true
+    toc: false
     toc-depth: 3
     toc-location: left
     toc-title: '   '
@@ -51,12 +54,12 @@ format:
         margin-width: 300px
         gutter-width: 1em
     linestretch: 1.5
-    fontsize: 1.2em
+    fontsize: 1em
     smooth-scroll: true
     linkcolor: "#62259d"
     link-external-newwindow: true
     link-citations: true
-  # PrettyPDF-pdf: default
+  PrettyPDF-pdf: default
 fig-responsive: true
 image-alt: " "
 execute:

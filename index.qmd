@@ -1,429 +1,297 @@
 ---
-title: 'introduction to film history'
-lang: en
-encoding: UTF-8
+title: 'introduction to film analysis'
 ---
 
-[![](img/espiritu-colmena.jpg){.lightbox}](https://www.criterion.com/films/367-the-spirit-of-the-beehive)
+[![](img/letter-unknown-woman.jpeg){.lightbox}](https://www.criterion.com/current/posts/835-letter-from-an-unknown-woman)
 
 ::: {.column-margin}
 
-FILM 271-01-FA25  
+FILM 270-01-SP26\
+4 credits\
 [Keene State College](https://keene.edu)\
 Department of Film\
-Fall Semester 2025\
+Spring Semester 2026\
 Monday 10:00 a.m.-1:30 p.m.\
 Parker Hall: Drenan Auditorium\
 Instructor: Dr. Martin Roberts\
 Office hours: Monday 16:00-17:00\
 Office location: Media Arts 124\
-[Canvas](https://keene.instructure.com/courses/2474966)\
+[Canvas](https://keene.instructure.com/courses/2608114)\
 <br>
-[{{< fa regular envelope >}}](mailto:mdy45@usnh.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/ksc-film-history-fa25)\| 
-[{{< fa brands bluesky >}}](https://bsky.app/profile/dokoissho.bsky.social)
+[{{< fa regular envelope >}}](mailto:mdy45@usnh.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/ksc-film-history-fa25)\
 
 :::
 
-<small>*El Espíritu de la Colmena* (Victor Erice, 1973)</small>
+<small>_Joan Fontaine and Louis Jourdan in 'Letter from an Unknown Woman' (Max Ophüls, 1948)_</small>
 
-<!-- <small>Wendy Craig, James Fox, Dirk Bogarde, Sarah Miles in The Servant (Joseph Losey, 1963)</small> -->
+## **Description**
 
-## Overview
+This course is designed to equip students with the tools necessary to become critically aware and capable film viewers by introducing elements of film form, processes of textual analysis, a variety of cinematic techniques used in narrative and non-narrative cinema, and other models of critical analysis used in film criticism.
 
-This course provides an introduction to the study of the history of world cinemas and filmmaking over the past century. Students are introduced to national cinemas, film movements, genres, major directors/auteurs, and historically significant films. Films are contextualized within both to the history of film itself and the larger historical contexts from which they emerged. They are explored in relation to a wide range of analytical frameworks and concepts. Course assignments provide the opportunity to study historical film movements and pursue research on the works of specific directors.
+## **Outcomes**
 
-## Outcomes
+After completing the course, students should have acquired the following skills:
 
-By the end of the course, students will have acquired an in-depth understanding of a wide range of historically significant national cinemas, film movements, major directors, and films. They will also have developed analytical films in understanding films within their larger historical contexts. 
+-   Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
+-   Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film narratives
+-   Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
+-   Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
 
-## Reading Assignments
+## **Reading Assignments**
 
-There is no textbook for this course.
+The following texts are required for the course. Please order them as soon as possible.
 
-Reading assignments will be available either as PDFs via Canvas or online articles (follow links for access).
+Ed Sikov, _Film Studies: An Introduction_. Second edition. New York: Columbia University Press, 2020.
 
----
+Other reading assignments will be available in PDF format via links in the syllabus. Please download all PDFs (see also Files page for all PDFs), print them out and mark them up when reading.
 
-##  Writing Assignments
+## **Writing Assignments**
 
-**Film Auteur**\
-1,500-2000 words / 6-8 pages double-spaced, with bibliography  
-Grading: Letter  
-At least three films by one of the following filmmakers:
+**Screening Reports** (45%)
 
-- Michelangelo Antonioni
-- Charles Burnett
-- Victor Erice
-- Krzysztof Kieślowski
-- Stanley Kubrick
-- Akira Kurosawa
-- Joseph Losey
-- Louis Malle
-- Errol Morris
-- Jacques Tourneur
-- Agnès Varda
+3 short analyses of films (500-750 words / 2-3 pages)
 
-**Film Movement**\
-1,000 words / 4 pages double-spaced) 
-Grading: Letter  
-An overview of an international film movement (pre-2000 only), involving watching at least three films from the movement in question.
+**Genre Case Study** (15%)  
+1,000 words / 4 pages
 
-**Film Essay**  
-Grading: Letter   
-Possible topics:
+**Critical Essay** (25%)
 
-- Film studio (e.g. Cinecittà)
-- Actor/Actress (e.g. Dirk Bogarde, Jeanne Moreau)
-- Cinematographer (e.g. Nestor Almendros)
+Analysis of 1 or more films by one director, or belonging to a particular genre. Due exam week. Letter grade. 1,500-1,750 words (with bibliography, not included in word count) / 6-7 pages
 
-**Reflection**\
-Grading: Complete/Incomplete\  
-250-word reflection on the film screened that week, due by the following class.\  
-References to relevant sources encouraged and will get extra credit.\ 
-10 required; posted on Canvas weekly, from Week 3.  
+**Engagement** (15%)
 
-**Submission Formats** (any permitted)
+Includes attendance, punctuality, participation in in-class and online discussions, individual conferences regarding course materials, etc.
 
-- Written essay (see specific assignments for details). Submission: Canvas
-- Web essay (embedded images + clips). Submission: URL on Canvas
-- Video essay (edited clip compilation + titles + voiceover). Submission: upload to Google Drive, URL on Canvas
+## **Sources: Video Essay**
 
-***
+[kogonada](http://kogonada.com/archive)  
+[Mubi Video Essays](https://www.youtube.com/playlist?list=PLKl7YbzhkylSkooGBWR8rt1Bo1-nCn0su) (YouTube playlist)  
+[Observations on Film Art](https://www.criterionchannel.com/search?q=observations%20on%20film%20art) (Criterion channel)
 
-## Evaluation
+## Sources: Other
 
-- Film Response (10 overall): 25%
-- Movement Study: 15% 
-- Auteur Study: 15%  
-- Film Essay Project: 25%
-- Engagement: 20%
-
----
-
-## Platforms
-
+[A Sharper Focus: Essays on Film by Norman Holland](https://www.asharperfocus.com/index.html)  
 [Criterion](https://www.criterion.com/)  
-[Justwatch](https://justwatch.io/)  
+[Justwatch](https://justwatch.com/)  
 [Letterboxd](https://letterboxd.com/)  
 [Metrograph](https://metrograph.com/)  
 [Mubi](https://mubi.com/)  
-[Movie Database](https://www.themoviedb.org/?language=en-US)  
-[Sundance Now](https://sundancenow.com)
+[The Language of Film](https://nwdl.eu/languageoffilm) (interactive infographic on film-analysis concepts; for the iOS/Android app, search "Close-Up Film Language" on the App Store)  
+[Movie Database](https://www.themoviedb.org/?language=en-US)
+
+Screening: _EO_ (Jerzy Skolimowski, 2023)
+
+## Schedule of classes
+
+_Week 1 (Mon 01/19)_
+
+NO CLASS (Martin Luther King Day)
 
 ***
 
-## Resources
+_Week 2 (Mon 01/26)_
 
--  [Film Movements](https://cinemawavesblog.com/movements//) (CinemaWaves website)
--  [Film Movements: A Beginner's Guide](https://www.movementsinfilm.com/) (Movements in Film website)
+**Introduction: What is (a) Film?**
+
+_L'Assenza_ (Jonathan Romney, 2013)
+
+Sikov, _Film Studies: An Introduction__:_
+
+-   "Introduction: Representation and Reality"
+-   "Mise-en-Scène: Within the Image" (ch. 1)
+
+Screening: _EO_ (dir. Jerzy Skolimowski, 2022)
 
 ***
 
-## Films
+_Week 3 (Mon 02/02)_
 
-- *Cat People* (Jacques Tourneur, 1942) 
-- *Ascenseur pour l'échafaud* (*Elevator to the Gallows*, Louis Malle, 1958) 
-- *The Servant* (Joseph Losey, 1963) 
-- *High and Low* (Akira Kurosawa, 1963) 
-- *Mifune: The Last Samurai* (Steven Okazaki, 2015)
-- *Gates of Heaven* (Errol Morris, 1978)
-- *Black Panthers* (Agnès Varda, 1968) 
-- *To Sleep With Anger* (Charles Burnett, 1990) 
-- *Barry Lyndon* (Stanley Kubrick, 1975) 
-- *El Espíritu de la Colmena* (Victor Erice, 1973)
-- *Three Colours: Blue* (Krzysztof Kieślowski, 1993)
+**Cinematic Mode**
 
----
+Screenings:
 
-## Class Schedule
+-   [_Detectives_](https://youtu.be/9oU_myNlk1A) (Apple, 2022
+-   [_Whodunnit_](https://youtu.be/289zm-hlMWk) (Apple, 2022)
+    
+-   _[Why Do A24 Films Look Like That?](https://youtu.be/Y4EFuZxEtNI)_
+-   _Citizen Kane_ (Orson Welles, 1941), excerpt
+-   _Specter_ (Sam Mendes, 2015), opening sequence
 
-Week 1: Mon 25 Aug
-
-Introduction: This Is Not A Survey Course
-
-Screening: *Cat People*
-
----
-
-Week 2: Mon 1 Sept
-
-NO CLASS (Labor Day)
-
----
-
-Week 3: Mon 8 Sept
-
-**Topic: Cat People**
-
-Reading:
-
-- Daisuke Miyao, "[Cats Love Dark Places: Lighting in *Cat People*](pdf/daisuke-miyao-cinema-cat-people.pdf)"
-
-Screening: *Un témoin dans la ville* \[*Witness in the City*\] (Édouard Molinaro, 1959)  
-
----
-
-Week 4: Mon 15 Sept
-
-**Nocturnal Cinema**
-
-Reading:
-
-- Martin Roberts, "[Dangerous Liaisons: Film Noir, Jazz, and the French New Wave](https://mroberts1.github.io/nocturnal-cinema/)"  
-- Ginette Vincendeau, "[French Film Noir](pdf/french-film-noir.pdf)"
-
-Screening: *The Servant* 
-
----
-
-Week 5: Mon 22 Sept
-
-**Red Hollywood**
-
-Reading: 
-
-- Selected chapters from David Caute, *Joseph Losey: A Revenge on Life*
-
-Screening: *Red Hollywood* (excerpts)
-
----
-
-Week 6: Mon 29 Sept
-
-**Art Cinema**
-
-Reading:
-
-- David Bordwell, "[The Art Cinema as a Mode of Film Practice](pdf/bordwell-art-cinema.pdf)"
-- Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21)
-
-Screening: *High and Low* 
-
----
-
-Week 7: Mon 6 Oct
-
-**Japanese New Wave**
-
-Reading:
-
-- Mitsuhiro Yoshimoto, "[23. High and Low](pdf/kurosawa-high-low.pdf)" (in *Kurosawa: Film Studies and Japanese Cinema*. Durham, NC: Duke University Press, 2000)
-
-See also:
-
-- Movements in Film on the [Japanese New Wave](https://www.movementsinfilm.com/japanese-new-wave)
-- Cinemawaves on the [Japanese New Wave](https://cinemawavesblog.com/movements/japanese-new-wave/)
-
-See also: 
-
-Screening: *Mifune: The Last Samurai* (Steven Okazaki, 2015) 
-
----
-
-Week 8 Mon 13 Oct
-
-**Documentary**
-
-::: {.column-margin}
-
-{{< video https://youtu.be/5sDCWh0fqlg width="300" >}}
-
-:::
-
-"[Eye Contact](https://www.errolmorris.com/content/eyecontact/interrotron.html)" (2004 interview with Errol Morris on the Interrotron)
-
-[American Gothic Films: An Incomplete List](https://theanadromist.wordpress.com/2012/11/07/american-gothic-films-a-list/)
-
-Screening: *Gates of Heaven*
-
----
-
-Week 9: Mon 20 Oct
-
-**Vérité**
-
-Screening: *Cinéma Vérité: The Art of the Moment*
-
----
-
-Week 10: Mon 27 Oct
-
-**Resistance**
-
-Delphine Letort, "[Agnès Varda: Filming the Black Panthers's Struggle](pdf/varda-black-panthers.pdf)" (*L'Ordinaire des Amériques*, 217 (2014)
-
-Screening: *Black Panthers*
-
----
-
-Week 11: Mon 3 Nov
-
-**LA Rebellion**
-
-Reading:
-
-- [The Story of L.A. Rebellion](https://www.cinema.ucla.edu/la-rebellion/story-la-rebellion) (UCLA Library)
-- [*L.A. Rebellion: Creating A New Black Cinema*](pdf/la-rebellion-catalog.pdf) (exhibition catalog, 2011)
-
-Screening: *The American Soldier*
-
----
-
-Week 12: Mon 10 Nov
-
-**Queer Avant-Garde**
-
-Reading:
-
-- Judith Mayne, "[Fassbinder and Spectatorship](pdf/fassbinder-spectatorship.pdf)"
-
-Screening: *Barry Lyndon* (part 1)
-
----
-
-Week 13: Mon 17 Nov
-
-**Historical Drama**
-
-Reading:
-
-- Geoffrey O'Brien, "[Barry Lyndon: Time Regained](https://www.criterion.com/current/posts/5047-barry-lyndon-time-regained)" (*Criterion Collection*, 17 October 2017)
-- "[Kubrick's Candle Tricks in *Barry Lyndon*](https://www.criterion.com/current/posts/5059-kubrick-s-candle-tricks-in-barry-lyndon)" (*Criterion Collection*, 4 January 2018)
-- [Barry Lyndon Appreciation Society](https://www.facebook.com/groups/4160171565/) (Facebook)
-
-Screening: *Barry Lyndon* (part 2)
-
----
-
-Week 14: Mon 24 Nov
-
-**Transcendental Cinema**
-
-Reading:
-
-- Paul Schrader, "[Rethinking Transcendental Style](https://mroberts.emerson.build/courses/vm402-01/fa24/pdf/rethinking-transcendental-style.pdf)"
-- Jonathan Romney, "[Del Toro's Frankenstein](pdf/frankenstein.qmd)" (*Sight & Sound*, November 2025)
-
-Excerpt: *Umberto D* (Vittorio de Sica, 1952)
-
-Screening: [*El Espíritu de la Colmena*](https://www.criterion.com/films/367-the-spirit-of-the-beehive) \[*The Spirit of the Beehive*\] (Victor Erice, 1973)
-
----
-
-Week 15 Mon 1 Dec
-
-- Paul Julian Smith, "[*The Spirit of the Beehive*: Spanish Lessons](https://www.criterion.com/current/posts/447-the-spirit-of-the-beehive-spanish-lessons)" (Criterion Channel, 18 September 2006)
-- Olivia Arigho Stiles, "[The Monster and the Other: Reading Gender in Victor Erice’s *The Spirit of the Beehive*](https://www.anothergaze.com/the-monster-and-the-other-reading-gender-in-victor-erice-the-spirit-of-the-beehive/)" (*Another Gaze*, 24 August 2016)
-
-Screening: *Three Colours: Blue*
-
-::: {.column-margin}
-
-{{< video https://youtu.be/xiIM-18353M >}}
-
-:::
-
-- Abe Mark Nornes, "[For An Abusive Subtitling](pdf/mark-nornes-abusive-subtitling.pdf)" (*Film Quarterly* (1999) 52 (3): 17–34)
-- Nick James, "[*Blue*: Bare Necessities](https://www.criterion.com/current/posts/2066-blue-bare-necessities)" (Criterion Channel, 15 November 2011)
+Screening: _Jerzy Skolimowski and Ewa Piaskowska on Making 'EO'_ (Criterion Channel, 2023)
 
 ***
 
-Week 16 
+_Week 4 (Mon 02/09)_
 
-Mon 8 Dec: Reading Day \[no class meeting\]
+**Building Blocks: Shot, Scene, Sequence**
 
-Tues 9-Fri 12: Exam period
+Sikov, "[Mise-en-Scène: Camera Movement](https://keene.instructure.com/courses/2289506/files/321975909?wrap=1)" (_Film Studies: An Introduction_, ch. 2)
 
-**Tues 9 Dec: Final paper due by 5PM**
+Screenings:
 
-***
-
-## Filmography
-
-Andersen, Thom, and Noël Burch, dirs. 1996. *Red Hollywood*.  
-Andersen, Thom, dir. 2003. *Los Angeles Plays Itself*.  
-Maysles, Albert, David Maysles, and Charlotte Zwerin, dirs. 1970. *Gimme Shelter*.  
-Zwerin, Charlotte, dir. 1994. *Music for the Movies: Toru Takemitsu*. Les Films d'Ici.
+-   _Touch of Evil_ (Orson Welles, 1958)
+-   _"[The Shining](https://www.youtube.com/watch?v=YpcP-6nBi5c&t=5s)_ [and the Steadicam®: an interview with inventor Garrett Brown](https://www.youtube.com/watch?v=YpcP-6nBi5c&t=5s)"
 
 ***
 
-## Policies and Procedures
+_Week 5 (Mon 02/16)_
 
-Please read carefully and keep these policies in mind throughout the semester. Non-compliance with any of these policies will significantly impact your Engagement grade (20%), and in certain cases may result in a failing Engagement grade.
+**Framing Reality: Lighting, Focus, Aspect Ratio**
 
-**Classroom Protocol**
+Sikov, "Mise-en-Scène: Cinematography" (_Film Studies: An Introduction_, ch. 3)
 
-You are encouraged to use a notebook and take notes by hand during class. The use of laptops is permitted, but to take notes only. Laptops must still be closed during screening of films or film clips. 
+Screenings:
 
-If I suspect that you are using your laptop for purposes other than to take notes, you will be given one warning. If the the problem persists, your laptop privileges will be withdrawn and you will not be permitted to use the laptop for the remainder of the semester. 
+-   _Aspect Ratio in 'Vivre Sa Vie'_ (David Bordwell)
+-   _Vivre Sa Vie_ (Jean-Luc Godard, 1962)
 
-The following may not be used when class is in progress:
+***
 
-- Cellphones
-- Headphones or earbuds
+_Week 6 (Mon 02/23)_
 
-Hoods must be worn **down** at all times during class. This is related to the headphones policy---I must be able to see at all times that you are not using headphones. It's also an attention and participation issue, since wearing a hood necessarily limits ambient sound, including lectures and interaction with classmates.
+### **Montage**
 
----
+Sikov, "Editing" (_Film Studies_, ch. 4)
 
-**Attendance and Policy on Absences**
+[_Montage Reloaded_](https://intransition.openlibhums.org/issue/933/info) ([in]Transition, 4:6 (2019)
 
-Attendance of all scheduled classes is mandatory. 
+Screenings:
 
-Absences are classified as Explained or Unexplained. You are permitted **one** Unexplained absence per semester. Up to 2 further absences are permitted, but these must be Explained via email either before or as soon as possible after class. The following reasons are valid for an Explained absence.
+-   _Man With A Movie Camera_ (Dziga Vertov, 1929)
+-   [_After The Facts_](https://vimeo.com/383683839) (Karen Pearlman, 2019)
+-   [_Woman With an Editing Bench_](https://vimeo.com/ondemand/womanwithaneditingbench) (Karen Pearlman, 2017)
 
-- illness 
-- bereavement
-- personal emergency
-- attending sports meet
-- job interview
+**Deadline: First Screening Report**
 
-If you are absent from 3 classes, you are required to arrange a meeting with me to discuss your status in the course and how to proceed.
+***
 
-College policy states that a student who is absent more than 3 times during the first 10 weeks of the semester is required to  withdraw from the course, regardless of the reason. The student must follow the regular withdrawal procedure.
+_Week 7 (Mon 03/02)_
 
----
+### **Narrative**
 
-### Readings and writing assignments
+Sikov, _Film Studies_:
 
-Readings assigned for each week are expected to be completed **prior to** the class meeting. Assignments are due at the beginning of the class unless stated differently. **Please note that email submissions are not accepted.**
+-   "Narrative: From Scene to Scene" (ch. 6)
+-   "From Screenplay to Film" (ch. 7)
 
----
+Screening: _Don't Look Now_ (Nicolas Roeg, 1973)
 
-### Large-Language Models (LLM) and Generative Tools
+***
 
-LLMs such as ChatGPT, Claude, Perplexity, and others have exponentially improved many tasks in academic research, from quickly locating relevant  sources to compiling bibliographies and formatting citations correctly. They are not always accurate, however, and discretion is always advised. 
+_Week 8 (Mon 03/09)_
 
-You are encouraged to make full use of any LLM tools you may be familiar with as research resources, **except** in the case of writing assignments, which must be entirely your own work. If I suspect that you have used a generative tool to write your paper for you, it will receive an automatic grade of F and you will be invited to meet with me during my office hours to present evidence that your work was not produced using a generative tool. If such evidence is not presented, the assignment grade will stand and any further breaches of the LLM protocol may result in failing the course.
+**Narrative** (continued)
 
-The use of spelling, punctuation, and grammar correction tools such as Grammerly is strongly encouraged, but their content-generating affordances may not be used.
+Kenny, "[Two Intertwined Semi-Venetian Masterpieces](https://www.criterion.com/current/posts/3591-two-intertwined-semi-venetian-masterpieces?srsltid=AfmBOoraDEIB8oTxamsIxzVjxUIx0o_GlQcmMzodyFUm51g4oRXn96fZ)" (_Criterion Collection_, 7 June 2015)
 
----
+Screening: _Don't Look Now_ (alternative soundtrack version)
 
-### Discussion and participation
+***
 
-Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—--both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, it is not allowed in this class to use laptop or mobile devices during lecture, discussion, and screenings.
+SPRING BREAK
 
----
+***
 
-### Viewing films
+_Week 9 (Mon 03/23)_
 
-Viewing films in class together with other seminar members is an important part of film education. For this reason, you are expected to pay close attention and take notes during viewing. No eating, checking texts or email, or any other kind of multi-tasking is allowed.
+**Writing about film**
 
----
+[Kogonada video essays](https://kogonada.com/archive) (Bresson, Hitchcock)
 
-### Technology problems
+[Film Grab](https://film-grab.com) (frame datasets)
 
-We tend to rely heavily on computer technology in completing our course work. Keep in mind that technologies can fail, especially when you have a pending due date. Be prepared for possible technical problems and save your files in multiple locations.
+[Film Studies Resources](https://keene.instructure.com/courses/2608114/pages/film-studies-resources "Film Studies Resources")
 
----
+***
 
-### How to read critical articles
+_Week 10 (Mon 03/30)_
 
-You may find some of the articles on the reading list dense or dry. These are theoretical writings that even advanced researchers sometimes find difficult. Do not feel frustrated. Allow enough time for you to read certain sections slowly and repeatedly. Take a break when you are stuck with one particular section of the article. Go back to the article with a fresh perspective. Most importantly, take a note and come up with specific (critical) questions.
+**Auteurs and Art Cinema**
 
----
+Sikov, "Filmmakers" (_Film Studies_, ch. 8)
 
-### Academic honesty
+Bordwell, "[The Art Cinema as a Mode of Film Practice](https://keene.instructure.com/courses/2608114/files/384797483?wrap=1 "bordwell-art-cinema.pdf")"
 
-We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at [http://www.keene.edu/policy/academichonesty.cfm ()](http://www.keene.edu/policy/academichonesty.cfm)
+Vincendeau, "[Sixty Years of the French New Wave, From Hysteria to Nostalgia and Beyond](https://keene.instructure.com/courses/2608114/files/384797491?wrap=1 "vincendeau-french-new-wave.pdf")" (in Peter Graham and Ginette Vincendeau, eds., _The French New Wave: Critical Landmarks_ (London: BFI, 2009)
+
+Flitterman-Lewis, "[Another Gaze](https://www.anothergaze.com/after-agnes-varda-obituary-memorial-discussion-sandy-flitterman-lewis-kiva-reardon-lauren-elkin-as-hamrah-grace-barber-plentie-samia-labidi-jenny-chamarette-sheila-heti/)" (on Agnès Varda)
+
+**Deadline: Second Screening Report**
+
+***
+
+_Week 11 (Mon 04/06)_
+
+**Genre**
+
+Sikov, "Genre" (_Film Studies_, ch. 10)
+
+Altman, "[A Semantic/Syntactic Approach to Film Genre](https://keene.instructure.com/courses/2608114/files/384797511?wrap=1 "altman-semantic-syntactic.pdf")"
+
+Vincendeau, "[How the French Birthed Film Noir](https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/features/deep-focus/french-film-noir)"
+
+***
+
+_Week 12 (Mon 04/13)_
+
+#### **Ideology**
+
+Sikov, "Film and Ideology" (_Film Studies_, ch. 12)
+
+***
+
+_Week 13 (Mon 04/22)_
+
+**Digital Cinema**
+
+Sikov, "Digital Cinema" (Film Studies, ch. 13)
+
+[Manovich](https://manovich.net/index.php/projects/what-is-digital-cinema), "[What Is Digital Cinema?](https://keene.instructure.com/courses/2608114/files/384797507?wrap=1 "manovich-digital-cinema.pdf")" (1995)
+
+Prince, "[True Lies: Perceptual Realism, Digital Images, and Film Theory](https://keene.instructure.com/courses/2608114/files/384797455?wrap=1 "prince-perceptual-realism.pdf")"
+
+For video clips screened in class, see [Video Library](https://keene.instructure.com/courses/2608114/pages/video-library):
+
+-   _San Francisco, A Trip down Market Street, 14 April 1906_ (AI upscale by Denis Shiryaev)
+-   _Cyberpunk 2077 - Night Walk in Kabuki_ (walkthrough)
+-   _Dawson City: Frozen Time_ (trailer) (Bill Morrison, 2016)
+-   _Gravity | Making Of... Featurette_ (2013)
+
+Screenings:
+
+-   _Dr. Strange_ (Scott Derrickson, 2016)
+-   _Gravity_ (Alfonso Cuarón, 2013)
+
+***
+
+Week 14 (Mon 04/27)
+
+**Return to Realism**
+
+Bazin, "[The Ontology of the Photographic Image](https://keene.instructure.com/courses/2608114/files/384797505?wrap=1 "Bazin on realism-1.pdf")" _(What Is Cinema?_ (1967). (First published: 1945)
+
+05/01 Last day of classes
+
+***
+
+Reading Day (Mon 05/04)
+
+Exam period (Tues-Fri 05/05-08)
+
+**DEADLINE: Tuesday 05/05 Critical Essay**
+
+## **Readings & assignments**
+
+Readings assigned for each week should be completed **prior to** the class meeting. Assignments are due at the beginning of the class unless stated otherwise. **Do not email submissions.**
+
+
+
+## **Discussion & participation**
+
+Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure full participation and engagement in class, the use of laptops and/or mobile devices during lectures, discussion, and screenings is not permitted.
+
+
+
+## **Academic honesty**
+
+We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at [http://www.keene.edu/policy/academichonesty.cfm](http://www.keene.edu/policy/academichonesty.cfm)
