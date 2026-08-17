@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mroberts1.github.io/ksc-film-history-fa25/spectral-cinema.html</loc>
-    <lastmod>2026-02-23T20:34:11.223Z</lastmod>
+    <loc>https://mroberts1.github.io/ksc-film-analysis-sp26/spectral-cinema.html</loc>
+    <lastmod>2026-03-02T12:32:19.676Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/ksc-film-history-fa25/about.html</loc>
+    <loc>https://mroberts1.github.io/ksc-film-analysis-sp26/about.html</loc>
     <lastmod>2025-09-08T12:44:52.645Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/ksc-film-history-fa25/bibliography.html</loc>
+    <loc>https://mroberts1.github.io/ksc-film-analysis-sp26/bibliography.html</loc>
     <lastmod>2025-09-08T12:44:52.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mroberts1.github.io/ksc-film-history-fa25/index.html</loc>
-    <lastmod>2026-02-23T20:37:51.432Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mroberts1.github.io/ksc-film-history-fa25/frankenstein.html</loc>
-    <lastmod>2025-11-24T20:02:35.297Z</lastmod>
   </url>
   <url>
     <loc>https://mroberts1.github.io/ksc-film-analysis-sp26/index.html</loc>
-    <lastmod>2026-02-23T20:37:51.432Z</lastmod>
+    <lastmod>2026-08-17T16:07:30.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/ksc-film-analysis-sp26/frankenstein.html</loc>
+    <lastmod>2025-11-24T20:02:35.297Z</lastmod>
   </url>
 </urlset>

@@ -4,8 +4,7 @@ title: 'introduction to film analysis'
 
 [![](img/letter-unknown-woman.jpeg){.lightbox}](https://www.criterion.com/current/posts/835-letter-from-an-unknown-woman)
 
-::: {.column-margin}
-
+::: column-margin
 FILM 270-01-SP26\
 4 credits\
 [Keene State College](https://keene.edu)\
@@ -17,41 +16,39 @@ Instructor: Dr. Martin Roberts\
 Office hours: Monday 16:00-17:00\
 Office location: Media Arts 124\
 [Canvas](https://keene.instructure.com/courses/2608114)\
-<br>
-[{{< fa regular envelope >}}](mailto:mdy45@usnh.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/ksc-film-history-fa25)\
-
+<br> [{{< fa regular envelope >}}](mailto:mdy45@usnh.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/ksc-film-analysis-sp26)\
 :::
 
-<small>_Joan Fontaine and Louis Jourdan in 'Letter from an Unknown Woman' (Max Ophüls, 1948)_</small>
+<small>*Joan Fontaine and Louis Jourdan in 'Letter from an Unknown Woman' (Max Ophüls, 1948)*</small>
 
-## **Description**
+## Description
 
 This course is designed to equip students with the tools necessary to become critically aware and capable film viewers by introducing elements of film form, processes of textual analysis, a variety of cinematic techniques used in narrative and non-narrative cinema, and other models of critical analysis used in film criticism.
 
-## **Outcomes**
+## Outcomes
 
 After completing the course, students should have acquired the following skills:
 
--   Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
--   Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film narratives
--   Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
--   Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
+- Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
+- Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film narratives
+- Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
+- Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
 
-## **Reading Assignments**
+## Reading Assignments
 
 The following texts are required for the course. Please order them as soon as possible.
 
-Ed Sikov, _Film Studies: An Introduction_. Second edition. New York: Columbia University Press, 2020.
+Ed Sikov, *Film Studies: An Introduction*. Second edition. New York: Columbia University Press, 2020.
 
 Other reading assignments will be available in PDF format via links in the syllabus. Please download all PDFs (see also Files page for all PDFs), print them out and mark them up when reading.
 
-## **Writing Assignments**
+## Writing Assignments
 
 **Screening Reports** (45%)
 
 3 short analyses of films (500-750 words / 2-3 pages)
 
-**Genre Case Study** (15%)  
+**Genre Case Study** (15%)\
 1,000 words / 4 pages
 
 **Critical Essay** (25%)
@@ -62,217 +59,194 @@ Analysis of 1 or more films by one director, or belonging to a particular genre.
 
 Includes attendance, punctuality, participation in in-class and online discussions, individual conferences regarding course materials, etc.
 
-## **Sources: Video Essay**
+## Sources: Video Essay
 
-[kogonada](http://kogonada.com/archive)  
-[Mubi Video Essays](https://www.youtube.com/playlist?list=PLKl7YbzhkylSkooGBWR8rt1Bo1-nCn0su) (YouTube playlist)  
+[kogonada](http://kogonada.com/archive)\
+[Mubi Video Essays](https://www.youtube.com/playlist?list=PLKl7YbzhkylSkooGBWR8rt1Bo1-nCn0su) (YouTube playlist)\
 [Observations on Film Art](https://www.criterionchannel.com/search?q=observations%20on%20film%20art) (Criterion channel)
 
 ## Sources: Other
 
-[A Sharper Focus: Essays on Film by Norman Holland](https://www.asharperfocus.com/index.html)  
-[Criterion](https://www.criterion.com/)  
-[Justwatch](https://justwatch.com/)  
-[Letterboxd](https://letterboxd.com/)  
-[Metrograph](https://metrograph.com/)  
-[Mubi](https://mubi.com/)  
-[The Language of Film](https://nwdl.eu/languageoffilm) (interactive infographic on film-analysis concepts; for the iOS/Android app, search "Close-Up Film Language" on the App Store)  
+[A Sharper Focus: Essays on Film by Norman Holland](https://www.asharperfocus.com/index.html)\
+[Criterion](https://www.criterion.com/)\
+[Justwatch](https://justwatch.com/)\
+[Letterboxd](https://letterboxd.com/)\
+[Metrograph](https://metrograph.com/)\
+[Mubi](https://mubi.com/)\
+[The Language of Film](https://nwdl.eu/languageoffilm) (interactive infographic on film-analysis concepts; for the iOS/Android app, search "Close-Up Film Language" on the App Store)\
 [Movie Database](https://www.themoviedb.org/?language=en-US)
-
-Screening: _EO_ (Jerzy Skolimowski, 2023)
 
 ## Schedule of classes
 
-_Week 1 (Mon 01/19)_
+*Week 1 (Mon 01/19)*
 
 NO CLASS (Martin Luther King Day)
 
-***
+------------------------------------------------------------------------
 
-_Week 2 (Mon 01/26)_
+*Week 2 (Mon 01/26)*
 
-**Introduction: What is (a) Film?**
+NO CLASS (Snow day)
 
-_L'Assenza_ (Jonathan Romney, 2013)
+------------------------------------------------------------------------
 
-Sikov, _Film Studies: An Introduction__:_
+*Week 3 (Mon 02/02)*
 
--   "Introduction: Representation and Reality"
--   "Mise-en-Scène: Within the Image" (ch. 1)
+Watch:
 
-Screening: _EO_ (dir. Jerzy Skolimowski, 2022)
+*FILM* (Tacita Dean, 2011)
 
-***
+{{< video https://www.youtube.com/watch?v=lefvPUYGvi0 >}}
 
-_Week 3 (Mon 02/02)_
+[*The Definition of Film*](https://www.richardmisek.com/the-definition-of-film) (Richard Misek, 2015)
 
-**Cinematic Mode**
+Sikov, *Film Studies: An Introduction*: "[Mise-en-Scène: Within the Image](pdf/sikov-mise-en-scene-1-2.pdf)" (ch. 1) \[same pdf\]
 
-Screenings:
+Screening: *Le Rayon Vert* \[*The Green Ray*\] (Éric Rohmer, 1986)
 
--   [_Detectives_](https://youtu.be/9oU_myNlk1A) (Apple, 2022
--   [_Whodunnit_](https://youtu.be/289zm-hlMWk) (Apple, 2022)
-    
--   _[Why Do A24 Films Look Like That?](https://youtu.be/Y4EFuZxEtNI)_
--   _Citizen Kane_ (Orson Welles, 1941), excerpt
--   _Specter_ (Sam Mendes, 2015), opening sequence
+------------------------------------------------------------------------
 
-Screening: _Jerzy Skolimowski and Ewa Piaskowska on Making 'EO'_ (Criterion Channel, 2023)
+*Week 4 (Mon 02/09)*
 
-***
+**Trains of Thought: The Cinematic Experience**
 
-_Week 4 (Mon 02/09)_
+Francesco Casetti, "[The Relocation of Cinema](https://reframe.sussex.ac.uk/post-cinema/5-1-casetti/)" in Shane Denson and Julia Leyda, eds., [*Post-Cinema: Theorizing 21st-Century Film*](https://reframe.sussex.ac.uk/post-cinema/) (Sussex: REFRAME Books, 2015). Read at least the first two sections, preferably all.
 
-**Building Blocks: Shot, Scene, Sequence**
+Wolfgang Schivelbusch, "[Panoramic Travel](pdf/schivelbusch-panoramic-travel.pdf)," in *The Railway Journey: Trains and Travel in the Nineteenth Century (*Oxford: Blackwell, 1980)
 
-Sikov, "[Mise-en-Scène: Camera Movement](https://keene.instructure.com/courses/2289506/files/321975909?wrap=1)" (_Film Studies: An Introduction_, ch. 2)
+Allison C. Meier, "[Cycloramas: The Virtual Reality of the 19th CenturyLinks to an external site.](https://daily.jstor.org/cycloramas-the-virtual-reality-of-the-19th-century/)" (JSTOR Daily, 16 December 2018)
 
-Screenings:
+Charles Dennis, "[*Letter from an Unknown Woman*](pdf/letter-unknown-woman.pdf)" (*Criterion Channel*, 25 May 1992)
 
--   _Touch of Evil_ (Orson Welles, 1958)
--   _"[The Shining](https://www.youtube.com/watch?v=YpcP-6nBi5c&t=5s)_ [and the Steadicam®: an interview with inventor Garrett Brown](https://www.youtube.com/watch?v=YpcP-6nBi5c&t=5s)"
+Rebecca Mead, "[The Scourge of 'Relatability](https://www.newyorker.com/culture/cultural-comment/scourge-relatability)" (*New Yorker*, 1 August 2014)
 
-***
+Screening: *Letter from an Unknown Woman* (Max Ophüls, 1948)
 
-_Week 5 (Mon 02/16)_
+------------------------------------------------------------------------
 
-**Framing Reality: Lighting, Focus, Aspect Ratio**
+*Week 5 (Mon 02/16)*
 
-Sikov, "Mise-en-Scène: Cinematography" (_Film Studies: An Introduction_, ch. 3)
+**Spectral Cinema**
 
-Screenings:
+"[Spectral Cinema: *Retratos Fantasmas*](spectral-cinema.qmd)"
 
--   _Aspect Ratio in 'Vivre Sa Vie'_ (David Bordwell)
--   _Vivre Sa Vie_ (Jean-Luc Godard, 1962)
+Screening: *Retratos Fantasmas* (Kleber Mendonça Filho, 2023)
 
-***
+------------------------------------------------------------------------
 
-_Week 6 (Mon 02/23)_
+*Week 6 (Mon 02/23)*
 
-### **Montage**
-
-Sikov, "Editing" (_Film Studies_, ch. 4)
-
-[_Montage Reloaded_](https://intransition.openlibhums.org/issue/933/info) ([in]Transition, 4:6 (2019)
-
-Screenings:
-
--   _Man With A Movie Camera_ (Dziga Vertov, 1929)
--   [_After The Facts_](https://vimeo.com/383683839) (Karen Pearlman, 2019)
--   [_Woman With an Editing Bench_](https://vimeo.com/ondemand/womanwithaneditingbench) (Karen Pearlman, 2017)
+NO CLASS (Snow day)
 
 **Deadline: First Screening Report**
 
-***
+------------------------------------------------------------------------
 
-_Week 7 (Mon 03/02)_
+*Week 7 (Mon 03/02)*
 
-### **Narrative**
+**Building Blocks: Shot, Scene, Sequence**
 
-Sikov, _Film Studies_:
-
--   "Narrative: From Scene to Scene" (ch. 6)
--   "From Screenplay to Film" (ch. 7)
-
-Screening: _Don't Look Now_ (Nicolas Roeg, 1973)
-
-***
-
-_Week 8 (Mon 03/09)_
-
-**Narrative** (continued)
-
-Kenny, "[Two Intertwined Semi-Venetian Masterpieces](https://www.criterion.com/current/posts/3591-two-intertwined-semi-venetian-masterpieces?srsltid=AfmBOoraDEIB8oTxamsIxzVjxUIx0o_GlQcmMzodyFUm51g4oRXn96fZ)" (_Criterion Collection_, 7 June 2015)
-
-Screening: _Don't Look Now_ (alternative soundtrack version)
-
-***
-
-SPRING BREAK
-
-***
-
-_Week 9 (Mon 03/23)_
-
-**Writing about film**
-
-[Kogonada video essays](https://kogonada.com/archive) (Bresson, Hitchcock)
-
-[Film Grab](https://film-grab.com) (frame datasets)
-
-[Film Studies Resources](https://keene.instructure.com/courses/2608114/pages/film-studies-resources "Film Studies Resources")
-
-***
-
-_Week 10 (Mon 03/30)_
-
-**Auteurs and Art Cinema**
-
-Sikov, "Filmmakers" (_Film Studies_, ch. 8)
-
-Bordwell, "[The Art Cinema as a Mode of Film Practice](https://keene.instructure.com/courses/2608114/files/384797483?wrap=1 "bordwell-art-cinema.pdf")"
-
-Vincendeau, "[Sixty Years of the French New Wave, From Hysteria to Nostalgia and Beyond](https://keene.instructure.com/courses/2608114/files/384797491?wrap=1 "vincendeau-french-new-wave.pdf")" (in Peter Graham and Ginette Vincendeau, eds., _The French New Wave: Critical Landmarks_ (London: BFI, 2009)
-
-Flitterman-Lewis, "[Another Gaze](https://www.anothergaze.com/after-agnes-varda-obituary-memorial-discussion-sandy-flitterman-lewis-kiva-reardon-lauren-elkin-as-hamrah-grace-barber-plentie-samia-labidi-jenny-chamarette-sheila-heti/)" (on Agnès Varda)
-
-**Deadline: Second Screening Report**
-
-***
-
-_Week 11 (Mon 04/06)_
-
-**Genre**
-
-Sikov, "Genre" (_Film Studies_, ch. 10)
-
-Altman, "[A Semantic/Syntactic Approach to Film Genre](https://keene.instructure.com/courses/2608114/files/384797511?wrap=1 "altman-semantic-syntactic.pdf")"
-
-Vincendeau, "[How the French Birthed Film Noir](https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/features/deep-focus/french-film-noir)"
-
-***
-
-_Week 12 (Mon 04/13)_
-
-#### **Ideology**
-
-Sikov, "Film and Ideology" (_Film Studies_, ch. 12)
-
-***
-
-_Week 13 (Mon 04/22)_
-
-**Digital Cinema**
-
-Sikov, "Digital Cinema" (Film Studies, ch. 13)
-
-[Manovich](https://manovich.net/index.php/projects/what-is-digital-cinema), "[What Is Digital Cinema?](https://keene.instructure.com/courses/2608114/files/384797507?wrap=1 "manovich-digital-cinema.pdf")" (1995)
-
-Prince, "[True Lies: Perceptual Realism, Digital Images, and Film Theory](https://keene.instructure.com/courses/2608114/files/384797455?wrap=1 "prince-perceptual-realism.pdf")"
-
-For video clips screened in class, see [Video Library](https://keene.instructure.com/courses/2608114/pages/video-library):
-
--   _San Francisco, A Trip down Market Street, 14 April 1906_ (AI upscale by Denis Shiryaev)
--   _Cyberpunk 2077 - Night Walk in Kabuki_ (walkthrough)
--   _Dawson City: Frozen Time_ (trailer) (Bill Morrison, 2016)
--   _Gravity | Making Of... Featurette_ (2013)
+Sikov, "[Mise-en-Scène: Camera Movement](pdf/sikov-mise-en-scene-1-2.pdf)" (*Film Studies: An Introduction*, ch. 2)
 
 Screenings:
 
--   _Dr. Strange_ (Scott Derrickson, 2016)
--   _Gravity_ (Alfonso Cuarón, 2013)
+- "\[*The Shining* and the Steadicam®: an interview with inventor Garrett Brown"
 
-***
+{{< video https://www.youtube.com/watch?v=YpcP-6nBi5c&t=5s >}}
+
+- *Personal Shopper* (Olivier Assayas, 2016)
+
+------------------------------------------------------------------------
+
+*Week 8 (Mon 03/09)*
+
+**Framing Reality: Lighting, Focus, Aspect Ratio**
+
+Sikov, *Film Studies*: "Cinematography" (ch. 3)
+
+Screening: *A Ghost Story* (David Lowery, 2017)
+
+------------------------------------------------------------------------
+
+SPRING BREAK
+
+------------------------------------------------------------------------
+
+*Week 9 (Mon 03/23)*
+
+**Montage**
+
+Sikov, *Film Studies*: "Editing" (ch. 4)
+
+Screening: *Don't Look Now* (Nicolas Roeg, 1973)
+
+------------------------------------------------------------------------
+
+*Week 10 (Mon 03/30)*
+
+Screening: *Inside Man* (Spike Lee, 2006)
+
+**Deadline: Second Screening Report**
+
+------------------------------------------------------------------------
+
+*Week 11 (Mon 04/06)*
+
+**Narrative 1**
+
+Screening: *Memento* (Christopher Nolan, 2000)
+
+------------------------------------------------------------------------
+
+*Week 12 (Mon 04/13)*
+
+**Narrative 2**
+
+Sikov, *Film Studies*:
+
+- "[Narrative: From Scene to Scene](pdf/sikov-narrative.pdf)" (ch. 6)
+
+- "[From Screenplay to Film](pdf/sikov-screenplay.pdf)" (ch. 7)
+
+- [Mise-en-Abyme](https://en.wikipedia.org/wiki/Mise_en_abyme) (Wikipedia)
+
+Screening: *eXistenZ* (David Cronenberg, 1999)
+
+------------------------------------------------------------------------
+
+*Week 13 (Mon 04/22)*
+
+**Genre**
+
+Sikov, "[Genre](pdf/sikov-genre.pdf)" (*Film Studies*, ch. 10)
+
+Altman, "[A Semantic/Syntactic Approach to Film Genre](pdf/altman-semantic-syntactic.pdf)"
+
+Gemma Gracewood, "[Film Feelings: using ‘nanogenres’ to find similar films](https://letterboxd.com/journal/film-feelings-nanogenres)" (*Letterboxd*, 16 March 2022)
+
+[Sad girl cinema](https://letterboxd.com/indiasfilms/list/sad-girl-cinema/) (*Letterboxd*)
+
+[Sad boy cinema](https://letterboxd.com/indiasfilms/list/sad-boy-cinema/) (*Letterboxd*)
+
+Screening: *Morvern Callar* (Lynn Ramsay, 2003)
+
+------------------------------------------------------------------------
 
 Week 14 (Mon 04/27)
 
-**Return to Realism**
+**Digital Cinema**
 
-Bazin, "[The Ontology of the Photographic Image](https://keene.instructure.com/courses/2608114/files/384797505?wrap=1 "Bazin on realism-1.pdf")" _(What Is Cinema?_ (1967). (First published: 1945)
+Sikov, "[Film Studies in the Age of Digital Cinema](pdf/sikov-digital-cinema.pdf)" (*Film Studies: An Introduction*, ch. 13)
+
+Lev Manovich, "[What is Digital Cinema?](pdf/manovich-digital-cinema.pdf)"
+
+Screening: *Gravity* (Alfonso Cuarón, 2013)
+
+**Deadline: Genre Study**
 
 05/01 Last day of classes
 
-***
+------------------------------------------------------------------------
 
 Reading Day (Mon 05/04)
 
@@ -284,14 +258,10 @@ Exam period (Tues-Fri 05/05-08)
 
 Readings assigned for each week should be completed **prior to** the class meeting. Assignments are due at the beginning of the class unless stated otherwise. **Do not email submissions.**
 
-
-
 ## **Discussion & participation**
 
 Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure full participation and engagement in class, the use of laptops and/or mobile devices during lectures, discussion, and screenings is not permitted.
 
-
-
 ## **Academic honesty**
 
-We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at [http://www.keene.edu/policy/academichonesty.cfm](http://www.keene.edu/policy/academichonesty.cfm)
+We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at <http://www.keene.edu/policy/academichonesty.cfm>
