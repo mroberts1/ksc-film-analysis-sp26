@@ -1,0 +1,75 @@
+---
+title: "conversations with chatGPT II: film genres in the age of social media"
+---
+
+*MR: It can also be argued that this 1980s-era model of genre is overly based on structuralist models originating in language/linguistics, whereas in the age of social media audiences and metadata, we need a new model of how genres are constructed, including microgenres or nanogenres. What would a contemporary theory of film genre look like in that way?*
+
+------------------------------------------------------------------------
+
+Altman’s model was powerful because it explained genre as a relation between **recurring elements** and **recurring structures**: what films contain, and how those elements are organized. But it still belongs to a moment when genre could plausibly be treated as a relatively stable formal system, legible through close reading and structural analysis. Altman’s 1984 essay is explicitly framed around reconciling semantic and syntactic approaches within genre criticism. 
+
+A contemporary theory of film genre would have to start from a different premise:
+
+**genre is no longer just a property of films. It is a dynamic outcome of circulation, tagging, recommendation, discourse, and audience aggregation.**
+
+That means at least five shifts.
+
+First, genre today is **platformed**. On sites like Letterboxd, films are no longer sorted only by traditional categories such as horror, western, or melodrama. They are also grouped by “themes” and “nanogenres,” which Letterboxd introduced through its partnership with Nanocrowd in order to help users find films through very narrow thematic or affective connections. Nanocrowd describes these nanogenres as clusters built from what viewers find compelling about titles, and even encourages users to “build your own genres.” 
+
+Second, genre is now **audience-generated as much as author- or industry-generated**. In the older model, studios, critics, and scholars named genres from above. In the newer environment, viewers participate directly in classification through ratings, reviews, tags, memes, lists, and recommendation behavior. In other words, genre becomes partly a record of what audiences repeatedly say films *feel like*, not just what they formally are. Letterboxd’s own description of nanogenres emphasizes the “what” and the “why” of watching, while Nanocrowd says it analyzes audience comments and reactions as the basis for its genre logic. 
+
+Third, genre becomes **granular and combinatory**. Instead of one film simply “belonging” to horror or noir, it can now be located at the intersection of many tiny descriptors: cozy horror, sad-girl sci-fi, neon revenge thriller, folk horror breakup movie, and so on. These are not merely cute labels. They reflect a real shift from genre as a bounded class to genre as a **stack of metadata layers**. Nanogenres are built precisely to capture these narrower combinations of theme, tone, appeal, and viewer response. 
+
+Fourth, genre is now **affective and experiential**, not just semantic or syntactic. Altman asked what elements recur and how they are organized. A current theory would also ask: what mood does a film produce, what fantasy does it sell, what identity does it hail, what online discourse does it attract? The rise of nanogenres strongly suggests that viewers often search less for fixed formal categories than for very specific emotional and experiential profiles. Letterboxd explicitly presents nanogenres as a way to find “thematic links” and film “feelings,” and Nanocrowd frames its system around audience reactions. 
+
+Fifth, genre today is **performative**. A microgenre exists not only because films share traits, but because enough people repeat a label, circulate a list, optimize a recommendation feed, or build a community around that cluster. In this sense, genres are made in public through discourse. They are less like natural categories and more like temporary stabilizations in a network. The fact that Nanocrowd markets custom genre-building, and that Letterboxd surfaces ever more specific thematic clusters, shows that genre is increasingly treated as something users actively assemble rather than passively inherit. 
+
+So a contemporary theory of film genre might look something like this:
+
+**Genre is a mutable, multi-level classification system produced through the interaction of films, platforms, metadata, audiences, and algorithms.**
+
+That model would have at least six dimensions:
+
+1.  **Formal dimension**\
+    What Altman already gave us: iconography, character types, settings, narrative patterns, tonal conventions. 
+
+2.  **Industrial dimension**\
+    How distributors, streamers, festivals, and marketers package films for discoverability.
+
+3.  **Metadata dimension**\
+    How films are tagged, keyworded, nested into menus, recommendation engines, and searchable categories.
+
+4.  **Audience-discursive dimension**\
+    How viewers describe films in reviews, lists, jokes, TikToks, Reddit threads, and fan communities.
+
+5.  **Affective dimension**\
+    What films are said to *feel* like: comforting, bleak, horny, paranoid, cozy, chaotic, slow, uncanny.
+
+6.  **Algorithmic dimension**\
+    How platforms cluster titles based on behavior, similarity scoring, engagement patterns, and inferred taste communities.
+
+Under this model, traditional genres do not disappear. They become only the **top layer** of a much denser ecology. “Horror” still exists, but underneath it sits a swarm of more precise social formations: elevated horror, analog horror, arthouse grief horror, lesbian vampire revival, suburban occult horror, trauma horror, and so on. These are partly formal, partly discursive, and partly infrastructural.
+
+So if Altman gave us a **semantic/syntactic** model, a present-day update might be a **semantic/syntactic/platformed** model, or even better:
+
+**semantic + syntactic + affective + algorithmic**
+
+That is, a theory of genre that asks four questions:
+
+- What recognizable elements does the film use?
+
+- How are those elements organized narratively?
+
+- What kind of feeling or fantasy is the film sold and received as producing?
+
+- How do platforms and audiences cluster it, name it, and circulate it?
+
+The advantage of this newer model is that it can explain **microgenres and nanogenres** without treating them as fake or trivial. They are not just marketing fluff. They are real contemporary genre formations, but formations that emerge less from stable formal systems alone than from the interaction between textual features, audience language, and platform metadata. Letterboxd and Nanocrowd are important evidence here because they show genre moving toward narrower, more affective, more user-responsive classification. 
+
+So the simplest way to put it is this:
+
+**Altman helps us see genre as structure. A contemporary theory would have to see genre as structure plus circulation.**
+
+Or even more bluntly:
+
+**Genres are no longer just in films. They are also in databases, feeds, tags, lists, and audience talk.**

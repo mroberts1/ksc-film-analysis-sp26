@@ -12,16 +12,33 @@ encoding: UTF-8
 website:
   title: "    "
   site-url: https://mroberts1.github.io/ksc-film-analysis-sp26/
-  # twitter-card:
-  #   creator: "@mroberts_vma"
-  #   card-style: summary_large_image
-  # favicon: "/img/cropped-cropped-flourish-1-270x270.gif"
+  sidebar:
+    search: false
+    style: "floating"
+    collapse-level: 0
+    contents:
+        - section: "Lectures"
+          contents:
+            - text: Spectral Cinema
+              file: spectral-cinema.qmd
+        - section: "Film Genres: Conversations with ChatGPT"
+          contents:
+            - text: 1 Film Genres
+              file: film-genres.qmd
+            - text: 2 Film Genres in the Age of Social Media
+              file: film-genres-sm.qmd
+            - text: 3 Sad Girl Cinema
+              file: sad-girl.qmd
+        - section: "Assignments"
+          contents: 
+            - text: Genre Analysis
+              file: genre-analysis.qmd
   navbar:
     background: "#B22222"
     search: false
-    left: 
-      - text: Spectral Cinema
-        file: spectral-cinema.qmd
+    # left: 
+    #   - text: Spectral Cinema
+    #     file: spectral-cinema.qmd
     # right:
     #   - icon: envelope
     #     aria-label: envelope

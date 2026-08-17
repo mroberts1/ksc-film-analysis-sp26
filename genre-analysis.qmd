@@ -1,0 +1,37 @@
+---
+title: "genre analysis"
+---
+
+In the sidebar, you will find a section called  "Conversations with ChatGPT". The three pages are edited transcripts of queries to the ChatGPT LLM specifically about Rick Altman's classic 1984 paper about film genre.
+
+The first page should help clarify the distinction itself.
+
+The second page opens up a larger - and potentially more interesting to you - discussion about how the concept of film genre itself has been transformed in the age of social media platforms and algorithmic tools.
+
+The third page provides a case study of what film genres look like today: what may be called "sad girl cinema."
+
+Screened in class this week, Scottish director Lynn Ramsay's film *Morvern Callar* (2003) can be framed as an early example of what has become of film genre in the age of "social cinema."
+
+**Instructions**
+
+1\. Read the three pages about Film Genres listed on the Modules page.
+
+2\. Consult the list of films on Letterboxd under the rubric "[Sad Girl Cinema](https://letterboxd.com/indiasfilms/list/sad-girl-cinema/)".
+
+3\. Write a paper of approximately 750-1,000 words in length (3-4 pages, double-spaced), analyzing *Morvern Callar* as an example of "sad girl cinema". What exactly are the characteristics of this nanogenre? (What even IS a nanogenre?) Do you think Ramsay's film can even be framed in these terms? If not, what other genre or category could it be framed under? Be sure to contexualize your answer in relation to the week's reading assignments - either the Altman article or the Letterboxd article linked on the syllabus page.
+
+4\. If you prefer, you have two other options:
+
+\(a\) Analyze a different film from the Sad Girl Cinema list and explain in what specific ways it can be seen as an example of this nanogenre.
+
+\(b\) Write a response of the same length on the second "Conversations with ChatGPT page (Film Genres in the Age of Social Cinema), reflecting on the transformation of film genre in the age of social media platforms and the new forms that it takes. Give the example of specific film microgenres/nanogenres to support your discussion.
+
+**IMPORTANT: LLM use and disclosure**
+
+You are welcome to make use of LLMs (of which ChatGPT is of course only one example) as tools for research and/or brainstorming, but you are expected to write your paper yourself. Any LLM output text must be clearly identified and attributed in the same way as any academic/scholarly or journalistic source. **Full disclosure is required and expected.**
+
+Both academic/scholarly and popular/journalistic sources remain the most authoritative sources, and should be prioritized accordingly over generative outputs.
+
+------------------------------------------------------------------------
+
+**Deadline**: end of day **Wednesday 29 April**
